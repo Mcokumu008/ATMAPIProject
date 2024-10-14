@@ -1,0 +1,9 @@
+﻿http://scudo:7533/aml2018/WS/CRONUS%20International%20Ltd./Codeunit/ATMAPI
+7533
+9cjrhj7Y0h/TWrG3SmOCwQ==
+om1D34pxKGgNcDYAJbMlHw==
+yourdomain.com
+CRONUS International Ltd.
+your_instance_name
+9cjrhj7Y0h/TWrG3SmOCwQ==
+om1D34pxKGgNcDYAJbMlHw==
