@@ -5,5 +5,6 @@ om1D34pxKGgNcDYAJbMlHw==
 yourdomain.com
 CRONUS International Ltd.
 your_instance_name
+c:\B2B_LOGS
 9cjrhj7Y0h/TWrG3SmOCwQ==
 om1D34pxKGgNcDYAJbMlHw==

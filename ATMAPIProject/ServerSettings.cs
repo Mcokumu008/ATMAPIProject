@@ -11,6 +11,7 @@ public class ServerSettings
     public string Companyname { get; set; }
     public string user { get; set; }
     public string pass { get; set; }
+    public string logpath { get; set; }
     public string domain { get; set; }
 
     public void Getsettings(string path)
@@ -24,6 +25,7 @@ public class ServerSettings
             this.domain = streamReader.ReadLine();
             this.Companyname = streamReader.ReadLine();
             this.Instance = streamReader.ReadLine();
+            this.logpath = streamReader.ReadLine();
             this.AppUser = streamReader.ReadLine();
             this.AppPass = streamReader.ReadLine();
         }
